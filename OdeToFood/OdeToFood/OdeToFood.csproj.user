@@ -8,5 +8,8 @@
     <WebStackScaffolding_LayoutPageFile />
     <RazorPage_SelectedScaffolderID>RazorPageScaffolder</RazorPage_SelectedScaffolderID>
     <RazorPage_SelectedScaffolderCategoryPath>root/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
+    <_SelectedScaffolderID>ModelBasedCrudRazorPageScaffolder</_SelectedScaffolderID>
+    <_SelectedScaffolderCategoryPath>root/Common</_SelectedScaffolderCategoryPath>
+    <WebStackScaffolding_DbContextTypeFullName>OdeToFood.Data.OdeToFoodDbContext</WebStackScaffolding_DbContextTypeFullName>
   </PropertyGroup>
 </Project>

@@ -1,7 +1,7 @@
 ﻿@page
 @model OdeToFood.ListModel
 @{
-    ViewData["Title"] = "List";
+    ViewData["Title"] = "Restaurants";
 }
 
 <h1>Restaurant List...</h1>
@@ -16,20 +16,13 @@
     </div>
 </form>
 
-<table class="table">
-    @foreach (var restaurant in Model.Restaurants)
-    {
-        <tr>
-            <td>@restaurant.Name</td>
-            <td>@restaurant.Location</td>
-            <td>@restaurant.Cuisine</td>
-            <td>
-                <a asp-page="./Detail" asp-route-restaurantId="@restaurant.Id" class="btn btn-lg">Details</a>
-                <a asp-page="./Edit" asp-route-restaurantId="@restaurant.Id" class="btn btn-lg">Edit</a>
-            </td>
-        </tr>
-    }
-</table>
+@foreach (var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary.cshtml" model="restaurant" />
+}
+
 <a asp-page="./Edit" class="btn btn-primary"> Add New Place</a>
 
-<div>@Model.Message</div>
+@section footer {
+    <div>@Model.Message</div>
+}

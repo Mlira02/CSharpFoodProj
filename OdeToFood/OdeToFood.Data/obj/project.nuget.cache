@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sg8Go8UHFwvLl0g1I6EDRBe2S+TpXGFreHLo6Gp+5tZAi1c6fYRreMA9lTAxMA5dSYN6SnTuYOAn3su2p30T6Q==",
+  "dgSpecHash": "MGoj9wyQCOM8oX1A+UcFTa49GyP/zZhraIIUyyGQnrWLNQnH59rbT26u7pRuK+vSNvJEFhX1tQr5CWqAJ0tdLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "projectFilePath": "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcos\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\marcos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

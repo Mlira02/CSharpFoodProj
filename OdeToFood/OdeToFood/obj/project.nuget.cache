@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QV4niWZnMO6aN384PCixuH+HYyd11rGaGv1s2nyGU0IABxKZ0hoAWVH+D1MGpJkSfJii0UgccRG/w372LMGM3Q==",
+  "dgSpecHash": "YErxA/vIxjTJDMfMRdbFw3B4InTwQsj1zNmzQ1/xXbF/gzMUAsDK6AXxE55Cc/wUe3BmHoQj0SsyvCUfC78E/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+  "projectFilePath": "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcos\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\marcos\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

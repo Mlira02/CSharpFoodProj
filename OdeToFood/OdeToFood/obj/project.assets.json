@@ -8879,11 +8879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8899,8 +8899,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "C:\\Users\\marcos\\Documents\\Everything C#\\ASP.NET example\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+              "projectPath": "C:\\Users\\marcos\\Documents\\Everything C#\\CSharpFoodProj\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
             }
           }
         }

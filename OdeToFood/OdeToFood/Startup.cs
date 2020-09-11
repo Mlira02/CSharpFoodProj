@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using OdeToFood.Data;
+using System.Diagnostics;
+using Microsoft.AspNetCore.Http;
 
 namespace OdeToFood
 {
@@ -48,18 +50,25 @@ namespace OdeToFood
                 app.UseHsts();
             }
 
+            //app.Use(SayHelloMiddleware);
+
             app.UseHttpsRedirection();
             app.UseNodeModules();
             app.UseStaticFiles();
-
             app.UseRouting();
-
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
             });
+        }
+        private RequestDelegate SayHelloMiddleware(RequestDelegate arg)
+        {
+            return async context =>
+            {
+                await context.Response.WriteAsync("Hello World");
+            };
         }
     }
 }

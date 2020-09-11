@@ -7,3 +7,12 @@ C:\Users\marcos\Documents\Everything C#\ASP.NET example\OdeToFood\OdeToFood.Core
 C:\Users\marcos\Documents\Everything C#\ASP.NET example\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
 C:\Users\marcos\Documents\Everything C#\ASP.NET example\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
 C:\Users\marcos\Documents\Everything C#\ASP.NET example\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\marcos\Documents\Everything C#\CSharpFoodProj\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
